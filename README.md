@@ -13,6 +13,8 @@ The primary objectives of this project include:
 
 ## **Dataset**
 The dataset consists of multiple CSV files, each representing a specific aspect of the e-commerce business:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
+
 - `customers_dataset.csv`: Customer demographics.
 - `geolocation_dataset.csv`: Customer location details.
 - `order_items_dataset.csv`: Details of items in each order.
@@ -47,6 +49,10 @@ The dataset consists of multiple CSV files, each representing a specific aspect 
 
 ### 3. **Data Visualization**
 - Created charts to depict monthly sales trends, payment distributions, product performance, and customer review scores.
+
+---
+*This project was created by Halyusa Ard Wahyudi as part of a data analytics portfolio.*
+
 
 ## **Technologies Used**
 - **Languages:** Python
