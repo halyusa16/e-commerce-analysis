@@ -50,11 +50,10 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data
 ### 3. **Data Visualization**
 - Created charts to depict monthly sales trends, payment distributions, product performance, and customer review scores.
 
----
-*This project was created by Halyusa Ard Wahyudi as part of a data analytics portfolio.*
-
-
 ## **Technologies Used**
 - **Languages:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Tools:** Jupyter Notebook
+
+---
+*This project was created by Halyusa Ard Wahyudi as part of a data analytics portfolio.*
