@@ -1,12 +1,12 @@
 # 🛒e-commerce-analysis📊
 This self-project analyzes a public e-commerce dataset to extract valuable insights and answer critical business questions, such as sales trends, product performance, payment preferences, and customer reviews.
-
 --- 
+---
 
 ## 🔍 **Overview**
 This project analyzes a public e-commerce dataset to uncover valuable insights and answer critical business questions. The dataset contains customer, product, order, and transaction details, providing a comprehensive view of the e-commerce platform's operations.
 
----
+
 
 ## 🎯 **Objectives**
 The primary objectives of this project include:
@@ -15,7 +15,22 @@ The primary objectives of this project include:
 3. Understanding **customer payment preferences**💳
 4. Evaluating **customer review distributions**⭐
 
----
+## ⚙️**Process**
+### 1️⃣ **Data Wrangling** 🛠️
+- Uploaded and inspected each dataset.
+- Cleaned missing values and handled duplicates.
+- Standardized data types for consistency.
+
+### 2️⃣ **Exploratory Data Analysis (EDA)** 📊
+- Conducted analysis to uncover patterns in sales, customer behavior, and payment methods.
+- Merged datasets to derive meaningful insights.
+- Used visualizations for trend analysis and distribution comparisons.
+
+### 3️⃣ **Data Visualization** 🎨
+- Monthly sales trends
+- Payment method distributions
+- Product performance
+- Customer review scores
 
 ## 📊 **Key Insights**
 1. **Sales Trends:**
@@ -29,7 +44,6 @@ The primary objectives of this project include:
 4. **Customer Reviews:**
    - Majority of customers rated their experience 5 stars, indicating high satisfaction levels.
 
----
 
 ## 📈 Business Insights & Recommendations  
 
@@ -56,26 +70,6 @@ The primary objectives of this project include:
 - Analyze **negative reviews** to identify common issues (e.g., delivery delays, product quality).  
 - Improve **customer support** and **refund processes** to enhance satisfaction.  
 
----
-
-## ⚙️**Process**
-### 1️⃣ **Data Wrangling** 🛠️
-- Uploaded and inspected each dataset.
-- Cleaned missing values and handled duplicates.
-- Standardized data types for consistency.
-
-### 2️⃣ **Exploratory Data Analysis (EDA)** 📊
-- Conducted analysis to uncover patterns in sales, customer behavior, and payment methods.
-- Merged datasets to derive meaningful insights.
-- Used visualizations for trend analysis and distribution comparisons.
-
-### 3️⃣ **Data Visualization** 🎨
-- Monthly sales trends
-- Payment method distributions
-- Product performance
-- Customer review scores
-
---- 
 
 ## 💻**Technologies Used**
 - 🛠️ **Languages:** Python
