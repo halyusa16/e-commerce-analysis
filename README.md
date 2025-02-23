@@ -1,7 +1,4 @@
 # 🛒e-commerce-analysis📊
-This self-project analyzes a public e-commerce dataset to extract valuable insights and answer critical business questions, such as sales trends, product performance, payment preferences, and customer reviews.
---- 
----
 
 ## 🔍 **Overview**
 This project analyzes a public e-commerce dataset to uncover valuable insights and answer critical business questions. The dataset contains customer, product, order, and transaction details, providing a comprehensive view of the e-commerce platform's operations.
