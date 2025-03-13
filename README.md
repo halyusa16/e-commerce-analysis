@@ -1,4 +1,4 @@
-# 🛒e-commerce-analysis📊
+# 🛒e-commerce-analysis | Ptyhon Project
 
 ## 🔍 **Overview**
 This project analyzes a public e-commerce dataset to uncover valuable insights and answer critical business questions. The dataset contains customer, product, order, and transaction details, providing a comprehensive view of the e-commerce platform's operations.
